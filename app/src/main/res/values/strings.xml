@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Toko Gitar</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="Deskripsi_Gitar">deskriptionmenu</string>
+    <string name="Spesifikasi_Gitar">ingredients</string>
+    <string name="price">price</string>
+    <string name="Harga_Gitar">Rp. 5.000.000</string>
+    <string name="Spesifikasi">Kayu Mahoni</string>
+    <string name="deskription_gitar">deskriptiongitar</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Gitar">
+        <item>Gitar Akustik</item>
+        <item>Gitar Elektrik</item>
+        <item>Gitar Bass</item>
+        <item>Gitar Elektrik</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 5.000.000</item>
+        <item>Rp. 2.000.000</item>
+        <item>Rp. 3.000.000</item>
+        <item>Rp. 1.500.000</item>
+    </string-array>
+</resources>
